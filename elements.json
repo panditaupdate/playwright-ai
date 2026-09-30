@@ -1,0 +1,1350 @@
+{
+  "title": "Laboratorio de Testing | Home",
+  "url": "https://www.laboratoriodetesting.com/",
+  "elements": [
+    {
+      "tag": "button",
+      "type": null,
+      "role": null,
+      "text": "",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 1300,
+        "y": 20,
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": null,
+      "role": null,
+      "text": "Ir al checkout",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 1380,
+        "y": 708,
+        "width": 128,
+        "height": 72
+      }
+    },
+    {
+      "tag": "button",
+      "type": null,
+      "role": null,
+      "text": "Limpiar",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 1516,
+        "y": 708,
+        "width": 130,
+        "height": 72
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "LABORATORIO DE TESTING",
+      "href": "/",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": true,
+      "rect": {
+        "x": 48,
+        "y": 24,
+        "width": 153,
+        "height": 38
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Inicio",
+      "href": "/",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": true,
+      "rect": {
+        "x": 543,
+        "y": 34,
+        "width": 42,
+        "height": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Acceder",
+      "href": "/auth/login",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": true,
+      "rect": {
+        "x": 632,
+        "y": 34,
+        "width": 63,
+        "height": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Registrarse",
+      "href": "/auth/signup",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": true,
+      "rect": {
+        "x": 743,
+        "y": 34,
+        "width": 87,
+        "height": 18
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "",
+      "href": "#",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": true,
+      "rect": {
+        "x": 1172,
+        "y": 33,
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "tag": "button",
+      "type": null,
+      "role": null,
+      "text": "",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": true,
+      "rect": {
+        "x": 1212,
+        "y": 33,
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Ir de compras →",
+      "href": "#featured",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": true,
+      "rect": {
+        "x": 48,
+        "y": 288,
+        "width": 171,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Ir de compras",
+      "href": "#sports",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": true,
+      "rect": {
+        "x": 883,
+        "y": 220,
+        "width": 89,
+        "height": 17
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Ir de compras",
+      "href": "#brands",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": true,
+      "rect": {
+        "x": 883,
+        "y": 377,
+        "width": 89,
+        "height": 17
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "COMPRAR",
+      "href": "#outsiders",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": true,
+      "rect": {
+        "x": 40,
+        "y": 531,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "COMPRAR",
+      "href": "#muscles",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": true,
+      "rect": {
+        "x": 461,
+        "y": 531,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "COMPRAR",
+      "href": "#",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": true,
+      "rect": {
+        "x": 883,
+        "y": 531,
+        "width": 69,
+        "height": 17
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Bandas Elásticas de Resistencia $350.00 Estas bandas elásticas son perfectas para fortalecer y tonificar tus músculos en cualquier lugar. Son muy versátiles y puedes usarlas para una variedad de ejercicios, desde entrenamiento de fuerza hasta estiramientos. Hechas de un material duradero, ofrecen distintos niveles de resistencia, lo que las hace ideales tanto para principiantes como para atletas avanzados.",
+      "href": "/products/bandas-elasticas-de-resistencia",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 144,
+        "y": 839,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 168,
+        "y": 1214,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Set de Pesas Ajustables $2,500.00 Este set de pesas ajustables es ideal para quienes desean entrenar desde casa. El set incluye pesas de diferentes pesos que se pueden combinar para ajustarse a tu nivel de entrenamiento. Las pesas están recubiertas de un material antideslizante que asegura un agarre cómodo y seguro durante tu rutina de ejercicios.",
+      "href": "/products/set-de-pesas-ajustables",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 480,
+        "y": 839,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 504,
+        "y": 1214,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Mancuernas Recubiertas de Neopreno $800.00 Las mancuernas recubiertas de neopreno ofrecen un agarre cómodo y antideslizante, lo que las convierte en una opción perfecta para rutinas de entrenamiento en casa o en el gimnasio. Su diseño ergonómico garantiza que se adapten bien a tus manos y que sean fáciles de usar, incluso durante los ejercicios más intensos.",
+      "href": "/products/mancuernas-recubiertas-de-neopreno",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 816,
+        "y": 839,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 840,
+        "y": 1214,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Press de Banca Plegable $6,500.00 El press de banca plegable es el complemento ideal para tu gimnasio en casa. Este equipo permite realizar ejercicios de pecho, hombros y brazos de manera segura y eficiente. Su diseño compacto y plegable facilita el almacenamiento, mientras que su estructura de acero asegura estabilidad y resistencia durante los entrenamientos.",
+      "href": "/products/press-de-banca-plegable",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 480,
+        "y": 1294,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 504,
+        "y": 1669,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Chaqueta Deportiva para Correr $1,500.00",
+      "href": "/products/chaqueta-deportiva-para-correr",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 102,
+        "y": 1961,
+        "width": 208,
+        "height": 332
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Camiseta de Licra Deportiva para Dama $600.00",
+      "href": "/products/camiseta-de-licra-deportiva-para-dama",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 391,
+        "y": 1961,
+        "width": 208,
+        "height": 332
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Camiseta de Licra Deportiva para Hombre $650.00",
+      "href": "/products/camiseta-de-licra-deportiva-para-hombre",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 681,
+        "y": 1961,
+        "width": 208,
+        "height": 332
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Camiseta Deportiva Gris para Hombre $700.00",
+      "href": "/products/camiseta-deportiva-gris-para-hombre",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 970,
+        "y": 1961,
+        "width": 208,
+        "height": 332
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Medias Ortopédicas de Compresión $400.00",
+      "href": "/products/medias-ortopedicas-de-compresion",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 102,
+        "y": 2541,
+        "width": 208,
+        "height": 332
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Medias Tobilleras Oscuras $200.00",
+      "href": "/products/medias-tobilleras-oscuras",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 391,
+        "y": 2541,
+        "width": 208,
+        "height": 332
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Medias Tobilleras Fluorescentes $250.00",
+      "href": "/products/medias-tobilleras-fluorescentes",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 681,
+        "y": 2541,
+        "width": 208,
+        "height": 332
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Gafas de Natación recubiertas $700.00",
+      "href": "/products/gafas-de-natacion-recubiertas",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 970,
+        "y": 2541,
+        "width": 208,
+        "height": 332
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Balón de Fútbol Profesional $1,200.00",
+      "href": "/products/balon-de-futbol-profesional",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 102,
+        "y": 3121,
+        "width": 208,
+        "height": 332
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Raquetas de Pádel con Mango Suave $3,500.00",
+      "href": "/products/raquetas-de-padel-con-mango-suave",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 391,
+        "y": 3121,
+        "width": 208,
+        "height": 332
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Pesas de Alto Rendimiento $3,000.00",
+      "href": "/products/pesas-de-alto-rendimiento",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 681,
+        "y": 3121,
+        "width": 208,
+        "height": 332
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Tapete de Yoga Antideslizante $500.00",
+      "href": "/products/tapete-de-yoga-antideslizante",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 970,
+        "y": 3121,
+        "width": 208,
+        "height": 332
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Bandas Elásticas de Resistencia $350.00 Estas bandas elásticas son perfectas para fortalecer y tonificar tus músculos en cualquier lugar. Son muy versátiles y puedes usarlas para una variedad de ejercicios, desde entrenamiento de fuerza hasta estiramientos. Hechas de un material duradero, ofrecen distintos niveles de resistencia, lo que las hace ideales tanto para principiantes como para atletas avanzados.",
+      "href": "/products/bandas-elasticas-de-resistencia",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 0,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 24,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Set de Pesas Ajustables $2,500.00 Este set de pesas ajustables es ideal para quienes desean entrenar desde casa. El set incluye pesas de diferentes pesos que se pueden combinar para ajustarse a tu nivel de entrenamiento. Las pesas están recubiertas de un material antideslizante que asegura un agarre cómodo y seguro durante tu rutina de ejercicios.",
+      "href": "/products/set-de-pesas-ajustables",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 343,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 367,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Mancuernas Recubiertas de Neopreno $800.00 Las mancuernas recubiertas de neopreno ofrecen un agarre cómodo y antideslizante, lo que las convierte en una opción perfecta para rutinas de entrenamiento en casa o en el gimnasio. Su diseño ergonómico garantiza que se adapten bien a tus manos y que sean fáciles de usar, incluso durante los ejercicios más intensos.",
+      "href": "/products/mancuernas-recubiertas-de-neopreno",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 685,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 709,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Press de Banca Plegable $6,500.00 El press de banca plegable es el complemento ideal para tu gimnasio en casa. Este equipo permite realizar ejercicios de pecho, hombros y brazos de manera segura y eficiente. Su diseño compacto y plegable facilita el almacenamiento, mientras que su estructura de acero asegura estabilidad y resistencia durante los entrenamientos.",
+      "href": "/products/press-de-banca-plegable",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 1028,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 1052,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Chaqueta Deportiva para Correr $1,500.00 La chaqueta deportiva para correr está fabricada con un material transpirable y de secado rápido, ideal para entrenar en condiciones climáticas adversas. Ofrece protección contra el viento y la lluvia, permitiéndote mantenerte cómodo y seco durante tu actividad física. Además, tiene detalles reflectantes para mayor visibilidad y seguridad.",
+      "href": "/products/chaqueta-deportiva-para-correr",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 1370,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 1394,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Camiseta de Licra Deportiva para Dama $600.00 Esta camiseta de licra para dama es ideal para entrenamientos intensos y actividades deportivas. Fabricada con un tejido de alta calidad que absorbe la humedad, ofrece una sensación de frescura y comodidad durante todo el ejercicio. Su ajuste ceñido proporciona una libertad de movimiento excepcional.",
+      "href": "/products/camiseta-de-licra-deportiva-para-dama",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 1713,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 1737,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Camiseta de Licra Deportiva para Hombre $650.00 La camiseta de licra deportiva para hombre está diseñada para brindar comodidad y flexibilidad en tus entrenamientos. Su material transpirable ayuda a mantenerte seco, incluso durante los entrenamientos más intensos. Es ideal para correr, ir al gimnasio o practicar deportes al aire libre.",
+      "href": "/products/camiseta-de-licra-deportiva-para-hombre",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 2055,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 2079,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Camiseta Deportiva Gris para Hombre $700.00 Esta camiseta deportiva gris para hombre es la opción perfecta para quienes buscan una prenda cómoda y versátil para sus entrenamientos. Está fabricada con un tejido ligero que se adapta al cuerpo, ofreciendo una gran libertad de movimiento y una excelente transpirabilidad.",
+      "href": "/products/camiseta-deportiva-gris-para-hombre",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 2398,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 2422,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Medias Ortopédicas de Compresión $400.00 Las medias ortopédicas de compresión son ideales para quienes necesitan mejorar la circulación durante sus actividades deportivas o de recuperación. Proporcionan un ajuste firme y cómodo, reduciendo la fatiga muscular y acelerando la recuperación después del ejercicio.",
+      "href": "/products/medias-ortopedicas-de-compresion",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 2740,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 2764,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Medias Tobilleras Oscuras $200.00 Estas medias tobilleras oscuras son ideales para cualquier tipo de deporte o actividad física. Están hechas de un material transpirable que mantiene los pies frescos y secos durante el ejercicio. Son suaves, cómodas y ofrecen un ajuste perfecto para mayor rendimiento.",
+      "href": "/products/medias-tobilleras-oscuras",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 3083,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 3107,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Medias Tobilleras Fluorescentes $250.00 Las medias tobilleras fluorescentes ofrecen un toque de estilo y visibilidad durante tus entrenamientos. Fabricadas con un material transpirable, estas medias proporcionan un ajuste cómodo y aseguran que tus pies permanezcan secos incluso en las sesiones más intensas.",
+      "href": "/products/medias-tobilleras-fluorescentes",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 3425,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 3449,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Gafas de Natación recubiertas $700.00 Las gafas de natación son un accesorio indispensable para los amantes de la piscina. Cuentan con lentes antiniebla y protección UV, lo que garantiza una visión clara y nítida bajo el agua. Su diseño ergonómico se adapta a diferentes tamaños y formas de rostro.",
+      "href": "/products/gafas-de-natacion-recubiertas",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 3768,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 3792,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Balón de Fútbol Profesional $1,200.00 El balón de fútbol profesional es ideal para entrenamientos y partidos. Fabricado con materiales de alta calidad, ofrece un control óptimo y una durabilidad excepcional. Su diseño aerodinámico garantiza un vuelo preciso y un excelente rendimiento en cada jugada.",
+      "href": "/products/balon-de-futbol-profesional",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 4110,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 4134,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Raquetas de Pádel con Mango Suave $3,500.00 Estas raquetas de pádel están diseñadas para brindar potencia y control en cada golpe. Fabricadas con materiales de alta calidad, ofrecen un excelente rendimiento en la cancha, permitiendo una experiencia de juego inigualable tanto para principiantes como para jugadores avanzados.",
+      "href": "/products/raquetas-de-padel-con-mango-suave",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 4453,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 4477,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Pesas de Alto Rendimiento $3,000.00 Las pesas de alto rendimiento son ideales para quienes buscan mejorar su fuerza y resistencia. Están diseñadas para un uso intensivo, con un recubrimiento antideslizante que asegura un agarre firme durante los entrenamientos. Son perfectas para rutinas de levantamiento de pesas en casa o en el gimnasio.",
+      "href": "/products/pesas-de-alto-rendimiento",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 4795,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 4819,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Tapete de Yoga Antideslizante $500.00 El tapete de yoga antideslizante es perfecto para quienes buscan un soporte seguro y cómodo durante sus sesiones de yoga o pilates. Está fabricado con un material resistente que ofrece un excelente agarre, incluso durante las posturas más exigentes.",
+      "href": "/products/tapete-de-yoga-antideslizante",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 5138,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 5162,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Reloj Deportivo GPS $7,000.00 El reloj deportivo GPS es un accesorio imprescindible para los atletas que desean monitorear su rendimiento. Ofrece funciones avanzadas como seguimiento de distancia, ritmo, frecuencia cardíaca y notificaciones inteligentes, todo en un diseño resistente al agua y al sudor.",
+      "href": "/products/reloj-deportivo-gps",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 5480,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 5504,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Guantes para Levantamiento de Pesas $400.00 Estos guantes para levantamiento de pesas ofrecen protección y comodidad durante tus entrenamientos. Su diseño ergonómico permite un agarre firme, mientras que el material acolchado reduce la presión sobre las palmas y protege tus manos de lesiones.",
+      "href": "/products/guantes-para-levantamiento-de-pesas",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 5823,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 5847,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Rodilleras Deportivas $350.00 Las rodilleras deportivas brindan un excelente soporte y protección a tus rodillas durante la actividad física. Están fabricadas con un material elástico y transpirable que asegura un ajuste cómodo y flexible, ayudando a prevenir lesiones y mejorar la estabilidad.",
+      "href": "/products/rodilleras-deportivas",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 6165,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 6189,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Banda Elástica de Resistencia $300.00 La banda elástica de resistencia es una herramienta versátil para mejorar tu fuerza y flexibilidad. Ideal para realizar ejercicios de tonificación y estiramiento, es ligera y fácil de transportar, lo que la hace perfecta para entrenamientos en casa o al aire libre.",
+      "href": "/products/banda-elastica-de-resistencia",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 6508,
+        "y": 3669,
+        "width": 320,
+        "height": 375
+      }
+    },
+    {
+      "tag": "button",
+      "type": "button",
+      "role": null,
+      "text": "AÑADIR AL CARRITO",
+      "href": null,
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 6532,
+        "y": 4044,
+        "width": 272,
+        "height": 40
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "LABORATORIO DE TESTING",
+      "href": "/",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 32,
+        "y": 4244,
+        "width": 592,
+        "height": 38
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Inicio",
+      "href": "/",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 869,
+        "y": 4272,
+        "width": 165,
+        "height": 28
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Checkout",
+      "href": "/checkout",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 869,
+        "y": 4300,
+        "width": 165,
+        "height": 28
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Login Page",
+      "href": "/auth/login",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 869,
+        "y": 4328,
+        "width": 165,
+        "height": 28
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Signup Page",
+      "href": "/auth/signup",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 869,
+        "y": 4356,
+        "width": 165,
+        "height": 28
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Formulario de práctica",
+      "href": "/form-practice",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 869,
+        "y": 4384,
+        "width": 165,
+        "height": 28
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Curso de Udemy",
+      "href": "https://www.udemy.com/course/automatizacion-cypress-de-la-teoria-a-la-practica/?referralCode=9F9C9BD35231F498A4CE",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 1067,
+        "y": 4272,
+        "width": 165,
+        "height": 28
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Preparación ISTQB",
+      "href": "#",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 1067,
+        "y": 4300,
+        "width": 165,
+        "height": 28
+      }
+    },
+    {
+      "tag": "a",
+      "type": null,
+      "role": null,
+      "text": "Certificaciones",
+      "href": "#",
+      "id": null,
+      "ariaLabel": null,
+      "inViewport": false,
+      "rect": {
+        "x": 1067,
+        "y": 4328,
+        "width": 165,
+        "height": 28
+      }
+    }
+  ]
+}

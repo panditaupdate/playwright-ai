@@ -1,0 +1,54 @@
+{
+  "consoleErrors": [
+    "Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "networkFailures": [
+    {
+      "url": "https://www.laboratoriodetesting.com/products/set-de-pesas-ajustables?_rsc=1wtp7",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.laboratoriodetesting.com/products/mancuernas-recubiertas-de-neopreno?_rsc=1wtp7",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.laboratoriodetesting.com/auth/signup?_rsc=1wtp7",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.laboratoriodetesting.com/products/press-de-banca-plegable?_rsc=1wtp7",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.laboratoriodetesting.com/?_rsc=1pz1r",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.laboratoriodetesting.com/auth/signup?_rsc=1pz1r",
+      "error": "net::ERR_ABORTED"
+    },
+    {
+      "url": "https://www.laboratoriodetesting.com/?_rsc=kecxq",
+      "error": "net::ERR_ABORTED"
+    }
+  ],
+  "sections": [],
+  "forms": {},
+  "cartBehavior": {
+    "text": "Imagen\n\nNombre\n\nCantidad\n\nPrecio\n\nEliminar\n\nBandas Elásticas de Resistencia\n\n1\n\n$350.00\n\nTotal: $350.00\n\nIr al checkout\nLimpiar"
+  },
+  "pages": [
+    {
+      "url": "https://www.laboratoriodetesting.com/auth/login",
+      "title": "Laboratorio de Testing | Login"
+    },
+    {
+      "url": "https://www.laboratoriodetesting.com/auth/signup",
+      "title": "Laboratorio de Testing | Signup"
+    },
+    {
+      "url": "https://www.laboratoriodetesting.com/practice-form",
+      "title": "404: This page could not be found."
+    }
+  ]
+}
